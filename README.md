@@ -35,15 +35,19 @@ atualmente, engajado no aprendizado da tecnologia flutter.
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
+      <td align="center" width="20%">
+        <span><b><center>Flutter</center></b></span> 
+        <img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
+      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
         <img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
       </td>
-      <td width="25%" align="center">
-        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
-        <img height=65px src="https://img.icons8.com/color/2x/flutter.png">
+      <td align="center" width="20%">
+        <span><b><center>Flutter</center></b></span> 
+        <img height=65px src="https://img.icons8.com/color/2x/ionic.png"> 
       </td>
     </tr>
   </tbody>
