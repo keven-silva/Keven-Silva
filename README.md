@@ -3,7 +3,8 @@ atualmente no 2° semestre de Ciência da Computação na UFC, possuo experiênc
 atualmente, engajado no aprendizado da tecnologia flutter.
 
 https://www.linkedin.com/in/keven-almeida-5a1433195
-![Keven Almeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=keven-almeida&theme=dark&show_icons=true)
+
+![Keven Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=keven-almeida&theme=dark&show_icons=true)
 
 <!---
 Keven-Almeida/Keven-Almeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
