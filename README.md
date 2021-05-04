@@ -35,10 +35,6 @@ atualmente, engajado no aprendizado da tecnologia flutter.
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-      <td align="center" width="20%">
-        <span><b><center>Flutter</center></b></span> 
-        <img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
-      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
@@ -47,7 +43,11 @@ atualmente, engajado no aprendizado da tecnologia flutter.
       </td>
       <td align="center" width="20%">
         <span><b><center>Flutter</center></b></span> 
-        <img height=65px src="https://img.icons8.com/color/2x/ionic.png"> 
+        <img height=65px src="https://img.icons8.com/color/2x/ionic-5.png"> 
+      </td>
+        <td align="center" width="20%">
+        <span><b><center>Flutter</center></b></span> 
+        <img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
       </td>
     </tr>
   </tbody>
