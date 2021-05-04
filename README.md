@@ -2,9 +2,9 @@ Meu nome é Keven Almeida, estou a mais de 1 ano e meio como bolsista na area de
 atualmente no 2° semestre de Ciência da Computação na UFC, possuo experiência em angula + ionic, além de um curso em machine learning pela UFC em conjunto com Huawei,
 atualmente, engajado no aprendizado da tecnologia flutter.
 
-[Linkedin]https://www.linkedin.com/in/keven-almeida-5a1433195
+[Linkedin](https://www.linkedin.com/in/keven-almeida-5a1433195)
 
-![Keven Almeida](https://github-readme-stats.vercel.app/api?username=keven-almeida&theme=algolia&show_icons=true)
+[Keven Almeida github status](https://github-readme-stats.vercel.app/api?username=keven-almeida&theme=algolia&show_icons=true)
 
 <!---
 Keven-Almeida/Keven-Almeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
