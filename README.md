@@ -4,7 +4,7 @@ atualmente, engajado no aprendizado da tecnologia flutter.
 
 [Linkedin](https://www.linkedin.com/in/keven-almeida-5a1433195)
 
-[Keven Almeida github status](https://github-readme-stats.vercel.app/api?username=keven-almeida&theme=algolia&show_icons=true)
+![Keven Almeida github status](https://github-readme-stats.vercel.app/api?username=keven-almeida&theme=algolia&show_icons=true)
 
 <!---
 Keven-Almeida/Keven-Almeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
