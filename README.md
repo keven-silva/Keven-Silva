@@ -42,8 +42,8 @@ atualmente, engajado no aprendizado da tecnologia flutter.
         <img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
       </td>
       <td align="center" width="20%">
-        <span><b><center>Flutter</center></b></span> 
-        <img height=65px src="https://img.icons8.com/color/2x/ionic-5.png"> 
+        <span><b><center>Ionic</center></b></span> 
+        <img src="https://img.icons8.com/ios-filled/50/4a90e2/ionic.png"/>
       </td>
         <td align="center" width="20%">
         <span><b><center>Flutter</center></b></span> 
