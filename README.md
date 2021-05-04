@@ -21,16 +21,8 @@ atualmente, engajado no aprendizado da tecnologia flutter.
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗩𝘂𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
-      </td>
       <td width="25%" align="center">
         <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
@@ -46,16 +38,8 @@ atualmente, engajado no aprendizado da tecnologia flutter.
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗟𝗲𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>
-      <td width="25%" align="center">
         <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+        <img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
       </td>
       <td width="25%" align="center">
         <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
@@ -65,9 +49,10 @@ atualmente, engajado no aprendizado da tecnologia flutter.
   </tbody>
 </table>
 
+<h3 align="center"> Other Accounts 📫 </h3>
+<br />
 <p align="center">
 <a href="https://www.linkedin.com/in/keven-almeida-5a1433195"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/keven_almeida81"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </p>
 
