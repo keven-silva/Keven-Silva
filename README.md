@@ -31,6 +31,10 @@ atualmente, engajado no aprendizado da tecnologia flutter.
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
+            <td align="center" width="25%">
+       <span>Flutter</span><br><br><br>
+      <img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
+      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
@@ -40,10 +44,6 @@ atualmente, engajado no aprendizado da tecnologia flutter.
       <td align="center" width="25%">
         <span>Ionic</span><br><br><br>
         <img src="https://img.icons8.com/ios-filled/50/4a90e2/ionic.png"/>
-      </td>
-      <td align="center" width="25%">
-       <span>Flutter</span><br><br><br>
-      <img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
       </td>
     </tr>
   </tbody>
