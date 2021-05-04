@@ -6,48 +6,15 @@ atualmente engajado no aprendizado da tecnologia flutter.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-            <td align="center" width="25%">
-       <span>Flutter</span><br><br><br>
-      <img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Node</span><br><br><br>
-        <img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
-      </td>
-      <td align="center" width="25%">
-        <span>Ionic</span><br><br><br>
-        <img src="https://img.icons8.com/ios-filled/50/4a90e2/ionic.png"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+<img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
+<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
+<img src="https://img.icons8.com/ios-filled/50/4a90e2/ionic.png"/>
+
 
 <h3 align="center"> Other Accounts 📫 </h3>
 <br />
