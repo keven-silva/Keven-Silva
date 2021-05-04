@@ -2,8 +2,6 @@ Meu nome é Keven Almeida, estou a mais de 1 ano e meio como bolsista na area de
 atualmente no 2° semestre de Ciência da Computação na UFC, possuo experiência em angula + ionic, além de um curso em machine learning pela UFC em conjunto com Huawei,
 atualmente, engajado no aprendizado da tecnologia flutter.
 
-[Linkedin](https://www.linkedin.com/in/keven-almeida-5a1433195)
-
 ![Keven Almeida Github Stats](https://github-readme-stats.vercel.app/api?username=keven-almeida&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
@@ -61,10 +59,17 @@ atualmente, engajado no aprendizado da tecnologia flutter.
       </td>
       <td width="25%" align="center">
         <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/ionic-5.svg">
+        <img height=65px src="https://img.icons8.com/color/2x/flutter.png">
       </td>
     </tr>
   </tbody>
 </table>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/keven-almeida-5a1433195"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/keven_almeida81"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+</p>
+
 
 
