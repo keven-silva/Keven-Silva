@@ -3,7 +3,7 @@ atualmente no 2° semestre de Ciência da Computação na UFC, possuo experiênc
 atualmente, engajado no aprendizado da tecnologia flutter.
 
 https://www.linkedin.com/in/keven-almeida-5a1433195
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![keven-almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 
 <!---
