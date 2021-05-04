@@ -24,10 +24,6 @@ atualmente, engajado no aprendizado da tecnologia flutter.
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
-      </td>
-      <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
@@ -38,7 +34,7 @@ atualmente, engajado no aprendizado da tecnologia flutter.
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Node.Js</span><br><br><br>
+        <span>Node</span><br><br><br>
         <img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
       </td>
       <td align="center" width="25%">
