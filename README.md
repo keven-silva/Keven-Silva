@@ -38,7 +38,7 @@ atualmente, engajado no aprendizado da tecnologia flutter.
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
+        <span>Node.Js</span><br><br><br>
         <img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
       </td>
       <td align="center" width="25%">
