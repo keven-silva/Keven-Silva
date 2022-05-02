@@ -1,9 +1,8 @@
 ## Olá eu sou o Keven Almeida
 <div>
-    Olá me chamo Keven Almeida, estou a mais de 2 anos na area de desenvolvimento mobile , 
-    atualmente cursando Ciência da Computação na UFC, possuo experiência em angula + ionic, além de conhecimento prévioem machine learning,
-    atualmente engajado no aprendizado da tecnologia flutter.
-</div>
+    Estou a mais de 3 anos na area de desenvolvimento , 
+    atualmente cursando Ciência da Computação na Universidade Federal do Ceará, possuo experiência com trabalho em grupo, metodologia ágil e uso de metodo scrum em projetos, além de experiência em clean code e boas praticas, sempre busco conhecer novas tecnologias e formas de melhorar minhas habilidades para agregar no meu trabalho.
+</div><br>
 <div>
     <a href="https://github.com/keven-almeida">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keven-almeida&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
