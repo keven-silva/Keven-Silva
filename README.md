@@ -4,9 +4,9 @@
 Atualmente cursando Ciência da Computação na Universidade Federal do Ceará, possuo experiência com trabalho em grupo, metodologia ágil e uso de método scrum em projetos, além de experiência em clean code e boas práticas, sempre busco conhecer novas tecnologias e formas de melhorar minhas habilidades para agregar no meu trabalho.
 </div><br>
 <div align="center">
-    <a href="https://github.com/keven-almeida">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keven-almeida&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keven-almeida&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"   />
+    <a href="https://github.com/keven-silva">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keven-silva&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keven-silva&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"   />
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -32,9 +32,9 @@ Atualmente cursando Ciência da Computação na Universidade Federal do Ceará, 
 <div align="center"> 
     <a href="https://instagram.com/keven_almeida77" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:keven.almeida.8179@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/keven-almeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/keven-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-![Snake animation](https://github.com/keven-almeida/keven-almeida/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/keven-silva/keven-silva/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
