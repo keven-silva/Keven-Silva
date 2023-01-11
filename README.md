@@ -1,7 +1,7 @@
-## Olá eu sou o Keven Almeida
+## 👨‍💼 Olá eu sou o Keven Almeida
 <div>
-   Estou a mais de 3 anos na área de desenvolvimento.
-Atualmente cursando Ciência da Computação na Universidade Federal do Ceará, possuo experiência com trabalho em grupo, metodologia ágil e uso de método scrum em projetos, além de experiência em clean code e boas práticas, sempre busco conhecer novas tecnologias e formas de melhorar minhas habilidades para agregar no meu trabalho.
+   👨‍💻 Estou a mais de 3 anos na área de desenvolvimento.
+👨‍🎓 Atualmente cursando Ciência da Computação na Universidade Federal do Ceará, possuo experiência com trabalho em grupo, metodologias ágeis como Scrum, Kanban, eXtreme Programming (XP), além de ter o clean code e boas práticas como objetivos de códigos idéais. 🏢 Tenho como interesse conhecer novas tecnologias, e formas de melhorar minhas habilidades de forma que possa agregar no meu trabalho e ajudar meus colegas colaboradores.
 </div><br>
 <div align="center">
     <a href="https://github.com/keven-silva">
