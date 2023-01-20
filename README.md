@@ -8,7 +8,7 @@
 
 <!--infomalções no topo -->
 <div align="center">
-  <img width="17%" height="17%" src="/icons/photo-perfil.jpg" alt="foto-perfil"/>
+  <img width="17%" height="17%" src="/icons/photo-perfil.png" alt="foto-perfil"/>
   <h1> 👨‍💼 Olá eu sou o Keven Almeida</h1>
 </div>
 
@@ -21,7 +21,7 @@
 
   <h2 align="left">Um pouco sobre mim</h2>
   <p align="justify">
-    👨‍💻 Estou a mais de 3 anos na área de desenvolvimento. Atualmente cursando Ciência da Computação na Universidade Federal do Ceará, possuo experiência com trabalho em grupo, metodologias ágeis como Scrum, Kanban, eXtreme Programming (XP), além de ter o clean code e boas práticas como objetivos de códigos idéais. 🏢 Tenho como interesse conhecer novas tecnologias, e formas de melhorar minhas habilidades de forma que possa agregar no meu trabalho e ajudar meus colegas colaboradores.
+    👨‍💻 Sou formado em tecnico em informática pelo Instituto Federal do Ceará (IFCE), atualmente cursando Ciência da Computação na Universidade Federal do Ceará (UFC), estou a quase 4 anos na área de desenvolvimento de software, possuo experiência com trabalho em grupo, metodologias ágeis como Scrum, Kanban, Extreme Programming (XP), além de ter o clean code e boas práticas como objetivos de códigos idéais. 🏢 Tenho como interesse conhecer novas tecnologias e formas de melhorar minhas habilidades de forma que possa agregar no meu trabalho/futuro. No presente momento, estou focado na área de apredizagem de máquina e suas ilimitadas possibilidades, com expectativas de atuar na área futuramente.
   </p>
 </div>
 <br>
