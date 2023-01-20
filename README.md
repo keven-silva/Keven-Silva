@@ -1,5 +1,5 @@
 <!-- Top cubes -->
-<link rel="stylesheet" type="text/css" href="https://github.com/keven-silva/Keven-Silva/main/styles.css" />
+<link rel="stylesheet" type="text/css" href="https://github.com/keven-silva/Keven-Silva/blob/main/styles.css" />
 
 <div>
   <div align="center" style="display: flex">
@@ -24,20 +24,20 @@
 
 <div align="center" style="display: inline_block">
   <br>
-  <img align="center" class="max-size" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-  <img align="center" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"  alt="TapyScript" />
-  <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" />
-  <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" />
-  <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" />
-  <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure"/>
-  <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
-  <img align="center" height="35" width="40" src="https://icongr.am/devicon/css3-original.svg?size=148&color=currentColor" alt="CSS">
-  <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" 
+  <img align="center" class="max-icon-size" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  <img align="center" class="max-icon-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"  alt="TapyScript" />
+  <img align="center" class="max-icon-size" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" />
+  <img align="center" class="max-icon-size" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" />
+  <img align="center" class="max-icon-size" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" />
+  <img align="center" class="max-icon-size" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure"/>
+  <img align="center" class="max-icon-size" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
+  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/css3-original.svg?size=148&color=currentColor" alt="CSS">
+  <img align="center" class="max-icon-size" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" 
   alt="Ionic" />
-  <img align="center" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" />
-  <img align="center" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
-  <img align="center" height="" width="40" src="https://icongr.am/devicon/django-original.svg?size=148&color=currentColor" alt="Django" />
-  <img align="center" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Csharp"/>
+  <img align="center" class="max-icon-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" />
+  <img align="center" class="max-icon-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
+  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/django-original.svg?size=148&color=currentColor" alt="Django" />
+  <img align="center" class="max-icon-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Csharp"/>
 </div>
 
   ##
