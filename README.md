@@ -15,12 +15,12 @@
 <!-- sobre mim -->
 <div>
   <div align="center" style="display: flex">
-    <img align="left" width="22%" height="20rem" src="/icons/invisible.png" alt="invisible"/>
-    <img align="right" width="22%" height="20rem" src="/icons/invisible.png" alt="invisible"/>
+    <img align="left" width="22%" height="300px" src="/icons/invisible.png" alt="invisible"/>
+    <img align="right" width="22%" height="22rem" src="/icons/invisible.png" alt="invisible"/>
   </div>
 
-  <h2>Um pouco sobre mim</h2>
-  <p>
+  <h2 align="left">Um pouco sobre mim</h2>
+  <p align="justify">
     👨‍💻 Estou a mais de 3 anos na área de desenvolvimento. Atualmente cursando Ciência da Computação na Universidade Federal do Ceará, possuo experiência com trabalho em grupo, metodologias ágeis como Scrum, Kanban, eXtreme Programming (XP), além de ter o clean code e boas práticas como objetivos de códigos idéais. 🏢 Tenho como interesse conhecer novas tecnologias, e formas de melhorar minhas habilidades de forma que possa agregar no meu trabalho e ajudar meus colegas colaboradores.
   </p>
 </div>
