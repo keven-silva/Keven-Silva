@@ -15,8 +15,8 @@
 <!-- sobre mim -->
 <div>
   <div align="center" style="display: flex">
-    <img align="left" width="22%" height="300px" src="/icons/invisible.png" alt="invisible"/>
-    <img align="right" width="22%" height="22rem" src="/icons/invisible.png" alt="invisible"/>
+    <img align="left" width="22%" height="250px" src="/icons/invisible.png" alt="invisible"/>
+    <img align="right" width="22%" height="25rem" src="/icons/invisible.png" alt="invisible"/>
   </div>
 
   <h2 align="left">Um pouco sobre mim</h2>
