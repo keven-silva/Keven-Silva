@@ -1,5 +1,5 @@
 <!-- Top cubes -->
-<link rel="stylesheet" type="text/css" href="https://github.com/keven-silva/Keven-Silva/blob/main/styles.css" />
+<link rel="stylesheet" type="text/css" href="styles.css" />
 
 <div>
   <div align="center" style="display: flex">
@@ -24,20 +24,20 @@
 
 <div align="center" style="display: inline_block">
   <br>
-  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="JavaScript"/>
-  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/typescript-original.svg?size=40&color=currentColor" alt="TypeScript" />
-  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/angularjs-original.svg?size=40&color=currentColor" alt="Angular" />
-  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/gitlab-original.svg?size=40&color=currentColor" alt="Gitlab" />
-  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/git-original.svg?size=40&color=currentColor" alt="Git" />
-  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/postgresql-original.svg?size=40&color=currentColor" alt="Postgresql"/>
-  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/docker-original.svg?size=40&color=currentColor" alt="Docker" />
-  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor" alt="CSS">
-  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/ionic-original.svg?size=40&color=currentColor" 
-  alt="Ionic" />
-  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor" alt="HTML" />
-  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/python-original.svg?size=40&color=currentColor" alt="Python"/>
-  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/django-original.svg?size=40&color=currentColor" alt="Django" />
-  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/csharp-original.svg?size=40&color=currentColor" alt="Csharp"/>
+  <img align="center" src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="javaScript-logo"/>
+  <img align="center" src="https://icongr.am/devicon/typescript-original.svg?size=40&color=currentColor" alt="typeScript-logo" />
+  <img align="center" src="https://icongr.am/devicon/angularjs-original.svg?size=40&color=currentColor" alt="angular-logo" />
+  <img align="center" src="https://icongr.am/devicon/gitlab-original.svg?size=40&color=currentColor" alt="gitlab-logo" />
+  <img align="center" src="https://icongr.am/devicon/git-original.svg?size=40&color=currentColor" alt="Git" />
+  <img align="center" src="https://icongr.am/devicon/postgresql-original.svg?size=40&color=currentColor" alt="postgresql-logo"/>
+  <img align="center" src="https://icongr.am/devicon/docker-original.svg?size=40&color=currentColor" alt="docker-logo" />
+  <img align="center" src="https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor" alt="CSS">
+  <img align="center" src="https://icongr.am/devicon/ionic-original.svg?size=40&color=currentColor" 
+  alt="ionic-logo" />
+  <img align="center" src="https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor" alt="html-logo" />
+  <img align="center" src="https://icongr.am/devicon/python-original.svg?size=40&color=currentColor" alt="python-logo"/>
+  <img align="center" src="https://icongr.am/devicon/django-original.svg?size=40&color=currentColor" alt="django-logo" />
+  <img align="center" src="https://icongr.am/devicon/csharp-original.svg?size=40&color=currentColor" alt="csharp-logo"/>
 </div>
 
   ##
