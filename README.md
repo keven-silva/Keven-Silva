@@ -1,13 +1,22 @@
+<!-- Top cubes -->
+<div>
+  <div align="center" style="display: flex">
+    <img align="left" width="30%" src="/icons/rotatingcube.webp" alt="rotating-cube-1"/>
+    <img align="right" width="30%" src="/icons/rotatingcube.webp" alt="rotating-cube-2"/>
+  </div>
+</div>
+
 ## 👨‍💼 Olá eu sou o Keven Almeida
 <div>
    👨‍💻 Estou a mais de 3 anos na área de desenvolvimento.
 👨‍🎓 Atualmente cursando Ciência da Computação na Universidade Federal do Ceará, possuo experiência com trabalho em grupo, metodologias ágeis como Scrum, Kanban, eXtreme Programming (XP), além de ter o clean code e boas práticas como objetivos de códigos idéais. 🏢 Tenho como interesse conhecer novas tecnologias, e formas de melhorar minhas habilidades de forma que possa agregar no meu trabalho e ajudar meus colegas colaboradores.
-</div><br>
-<div align="center">
-    <a href="https://github.com/keven-silva">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keven-silva&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keven-silva&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 </div>
+<br>
+<!-- <div align="center">
+    <a href="https://github.com/keven-silva"> -->
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keven-silva&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keven-silva&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/> -->
+<!-- </div> -->
 
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="Keven-Js" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
