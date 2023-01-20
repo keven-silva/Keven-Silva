@@ -10,10 +10,10 @@
 
 <div align="center">
   <h1> 👨‍💼 Olá eu sou o Keven Almeida</h1>
-  <!-- <div>
+  <div>
     <p>👨‍💻 Estou a mais de 3 anos na área de desenvolvimento.</p>
     <p>👨Atualmente cursando Ciência da Computação na Universidade Federal do Ceará, possuo experiência com trabalho em grupo, metodologias ágeis como Scrum, Kanban, eXtreme Programming (XP), além de ter o clean code e boas práticas como objetivos de códigos idéais. 🏢 Tenho como interesse conhecer novas tecnologias, e formas de melhorar minhas habilidades de forma que possa agregar no meu trabalho e ajudar meus colegas colaboradores.</p>
-  </div> -->
+  </div>
 </div>
 <br>
 <!-- <div align="center">
@@ -24,20 +24,20 @@
 
 <div align="center" style="display: inline_block">
   <br>
-  <img align="center" class="max-icon-size" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-  <img align="center" class="max-icon-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"  alt="TapyScript" />
-  <img align="center" class="max-icon-size" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" />
-  <img align="center" class="max-icon-size" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" />
-  <img align="center" class="max-icon-size" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" />
-  <img align="center" class="max-icon-size" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure"/>
-  <img align="center" class="max-icon-size" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
-  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/css3-original.svg?size=148&color=currentColor" alt="CSS">
-  <img align="center" class="max-icon-size" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" 
+  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor" alt="JavaScript"/>
+  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/typescript-original.svg?size=60&color=currentColor" alt="TypeScript" />
+  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/angularjs-original.svg?size=60&color=currentColor" alt="Angular" />
+  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/gitlab-original.svg?size=60&color=currentColor" alt="Gitlab" />
+  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/git-original.svg?size=60&color=currentColor" alt="Git" />
+  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/postgresql-original.svg?size=60&color=currentColor" alt="Postgresql"/>
+  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/docker-original.svg?size=60&color=currentColor" alt="Docker" />
+  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/css3-original.svg?size=60&color=currentColor" alt="CSS">
+  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/ionic-original.svg?size=60&color=currentColor" 
   alt="Ionic" />
-  <img align="center" class="max-icon-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" />
-  <img align="center" class="max-icon-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
-  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/django-original.svg?size=148&color=currentColor" alt="Django" />
-  <img align="center" class="max-icon-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Csharp"/>
+  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/html5-original.svg?size=60&color=currentColor" alt="HTML" />
+  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/python-original.svg?size=60&color=currentColor" alt="Python"/>
+  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/django-original.svg?size=60&color=currentColor" alt="Django" />
+  <img align="center" class="max-icon-size" src="https://icongr.am/devicon/csharp-original.svg?size=60&color=currentColor" alt="Csharp"/>
 </div>
 
   ##
