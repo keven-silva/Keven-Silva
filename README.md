@@ -43,6 +43,7 @@
   <img align="center" src="https://icongr.am/devicon/django-original.svg?size=40&color=currentColor" alt="django-logo" />
   <img align="center" src="https://icongr.am/devicon/csharp-original.svg?size=40&color=currentColor" alt="csharp-logo"/>
 </div>
+<br>
 
 <div align="center"> 
   <a href="https://instagram.com/keven_almeida77" target="_blank">
