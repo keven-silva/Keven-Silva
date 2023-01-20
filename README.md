@@ -8,7 +8,7 @@
 
 <!--infomalções no topo -->
 <div align="center">
-  <img width="17%" height="17%" src="/icons/photo-perfil.png" alt="foto-perfil"/>
+  <img width="22%" height="17%" src="/icons/photo-perfil.png" alt="foto-perfil"/>
   <h1> 👨‍💼 Olá eu sou o Keven Almeida</h1>
 </div>
 
