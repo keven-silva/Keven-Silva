@@ -1,26 +1,30 @@
-<!-- Top cubes -->
-<link rel="stylesheet" type="text/css" href="styles.css" />
-
+<!-- cubes -->
 <div>
   <div align="center" style="display: flex">
-    <img align="left" width="30%" src="/icons/rotatingcube.webp" alt="rotating-cube-1"/>
-    <img align="right" width="30%" src="/icons/rotatingcube.webp" alt="rotating-cube-2"/>
+    <img align="left" width="20%" src="/icons/rotatingcube.webp" alt="rotating-cube-1"/>
+    <img align="right" width="20%" src="/icons/rotatingcube.webp" alt="rotating-cube-2"/>
   </div>
 </div>
 
+<!--infomalções no topo -->
 <div align="center">
+  <img width="17%" height="17%" src="/icons/photo-perfil.jpg" alt="foto-perfil"/>
   <h1> 👨‍💼 Olá eu sou o Keven Almeida</h1>
-  <div>
-    <p>👨‍💻 Estou a mais de 3 anos na área de desenvolvimento.</p>
-    <p>👨Atualmente cursando Ciência da Computação na Universidade Federal do Ceará, possuo experiência com trabalho em grupo, metodologias ágeis como Scrum, Kanban, eXtreme Programming (XP), além de ter o clean code e boas práticas como objetivos de códigos idéais. 🏢 Tenho como interesse conhecer novas tecnologias, e formas de melhorar minhas habilidades de forma que possa agregar no meu trabalho e ajudar meus colegas colaboradores.</p>
+</div>
+
+<!-- sobre mim -->
+<div>
+  <div align="center" style="display: flex">
+    <img align="left" width="22%" height="20rem" src="/icons/invisible.png" alt="invisible"/>
+    <img align="right" width="22%" height="20rem" src="/icons/invisible.png" alt="invisible"/>
   </div>
+
+  <h2>Um pouco sobre mim</h2>
+  <p>
+    👨‍💻 Estou a mais de 3 anos na área de desenvolvimento. Atualmente cursando Ciência da Computação na Universidade Federal do Ceará, possuo experiência com trabalho em grupo, metodologias ágeis como Scrum, Kanban, eXtreme Programming (XP), além de ter o clean code e boas práticas como objetivos de códigos idéais. 🏢 Tenho como interesse conhecer novas tecnologias, e formas de melhorar minhas habilidades de forma que possa agregar no meu trabalho e ajudar meus colegas colaboradores.
+  </p>
 </div>
 <br>
-<!-- <div align="center">
-    <a href="https://github.com/keven-silva"> -->
-<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keven-silva&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keven-silva&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/> -->
-<!-- </div> -->
 
 <div align="center" style="display: inline_block">
   <br>
@@ -39,8 +43,6 @@
   <img align="center" src="https://icongr.am/devicon/django-original.svg?size=40&color=currentColor" alt="django-logo" />
   <img align="center" src="https://icongr.am/devicon/csharp-original.svg?size=40&color=currentColor" alt="csharp-logo"/>
 </div>
-
-  ##
 
 <div align="center"> 
   <a href="https://instagram.com/keven_almeida77" target="_blank">
