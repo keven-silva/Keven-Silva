@@ -1,15 +1,6 @@
-<!-- cubes -->
-<div>
-  <div align="center" style="display: flex">
-    <img align="left" width="20%" src="/icons/rotatingcube.webp" alt="rotating-cube-1"/>
-    <img align="right" width="20%" src="/icons/rotatingcube.webp" alt="rotating-cube-2"/>
-  </div>
-</div>
-
 <!--infomalções no topo -->
 <div align="center">
-  <img width="22%" height="17%" src="/icons/photo-perfil.png" alt="foto-perfil"/>
-  <h1> 👨‍💼 Olá eu sou o Keven Almeida</h1>
+  <h1> 👨‍💼 Olá a todos</h1>
 </div>
 
 <!-- sobre mim -->
